@@ -1,7 +1,7 @@
 ### Wanderson Andrade 👋
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/AndradeWI/)
-[<img src="https://img.shields.io/github/followers/AndradeWI?label=follow&style=social" height="22" title="Follow me" />](https://github.com/AndradeWI)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/wanderson-andrade/)
+[<img src="https://img.shields.io/github/followers/AndradeWI?tab=following?label=follow&style=social" height="22" title="Follow me" />](https://github.com/wanderson-andrade)
 
 Wanderson Andrade! 💻
 
@@ -14,5 +14,5 @@ Wanderson Andrade! 💻
 <p align="center"> 
  <a><img src="https://github-readme-stats.vercel.app/api?username=AndradeWI&show_icons=true&theme=graywhite" /></a>
 </p> 
-->
+--!>
 
