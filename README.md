@@ -1,16 +1,18 @@
-### Hi there 👋
+### Wanderson Andrade 👋
+
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/AndradeWI/)
+[<img src="https://img.shields.io/github/followers/AndradeWI?label=follow&style=social" height="22" title="Follow me" />](https://github.com/AndradeWI)
+
+Wanderson Andrade! 💻
+
+- 📚 Tecnólogo em Sistemas para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB
+- 👨🏻‍💻 Atualmente estou trabalhando como dev Front-end na Indra Company Brasil
+- 📰 Estou focado na stack Javascript
+- 🤝 Gosto do trabalho em equipe
 
 <!--
-**AndradeWI/AndradeWI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> 
+ <a><img src="https://github-readme-stats.vercel.app/api?username=AndradeWI&show_icons=true&theme=graywhite" /></a>
+</p> 
+->
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
