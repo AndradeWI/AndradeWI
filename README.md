@@ -7,6 +7,12 @@
 - 💻 Atualmente estou trabalhando como dev Front-end na Indra Company Brasil
 - 📰 Estou focado na stack Javascript
 - 🤝 Gosto do trabalho em equipe
+- 🚴 Gosto de pedalar correr
+- 🏃 Gosto de correr nadar
+- 🏊‍Gosto de nadar
+- 🛶 Gosto de remar
+- 📚 Gosto de ler
+- 🎵 Gosto de ouvir música.
 
 <!--
 <p align="center"> 
