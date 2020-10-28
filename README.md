@@ -6,7 +6,9 @@
 - 📚 Tecnólogo em Sistemas para Internet pelo Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB
 - 💻 Atualmente estou trabalhando como dev Front-end na Indra Company Brasil
 - 📰 Estou focado na stack Javascript
+
 - 🤝 Gosto do trabalho em equipe
+- ⌨️ Gosto de codar
 - 🚴 Gosto de pedalar
 - 🏃 Gosto de correr
 - 🏊‍Gosto de nadar
